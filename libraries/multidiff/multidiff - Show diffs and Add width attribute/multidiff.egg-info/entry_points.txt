@@ -1,0 +1,3 @@
+[console_scripts]
+multidiff = multidiff.command_line_interface:main
+

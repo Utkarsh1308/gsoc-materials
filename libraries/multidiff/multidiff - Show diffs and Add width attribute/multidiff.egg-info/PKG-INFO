@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: multidiff
+Version: 0.1
+Summary: Binary data diffing for multiple objects or streams of data
+Home-page: https://github.com/juhakivekas/multidiff
+Author: Juha Kivekäs
+Author-email: stilla@protonmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: diff hexdump visualizer packet-analysis
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Provides-Extra: test

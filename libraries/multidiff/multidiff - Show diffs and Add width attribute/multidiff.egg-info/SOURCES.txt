@@ -1,0 +1,16 @@
+setup.py
+multidiff/Ansi.py
+multidiff/FileController.py
+multidiff/Multidiffmodel.py
+multidiff/Render.py
+multidiff/SocketController.py
+multidiff/StdinController.py
+multidiff/StreamView.py
+multidiff/__init__.py
+multidiff/command_line_interface.py
+multidiff.egg-info/PKG-INFO
+multidiff.egg-info/SOURCES.txt
+multidiff.egg-info/dependency_links.txt
+multidiff.egg-info/entry_points.txt
+multidiff.egg-info/requires.txt
+multidiff.egg-info/top_level.txt
